@@ -38,7 +38,7 @@
     "cors": "^2.8.4",
     "debug": "^4.0.1",
     "express": "^4.16.3",
-    "http-errors": "^1.6.3",
+    "http-errors": "^1.7.2",
     "js-yaml": "^3.11.0",
     "lodash": "^4.17.11",
     "on-finished": "^2.3.0",
